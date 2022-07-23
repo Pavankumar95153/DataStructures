@@ -1,3 +1,5 @@
+package BinaryTreeDS;
+
 public class BinaryTreeTraversal {
     Node root;
 
@@ -65,3 +67,15 @@ public class BinaryTreeTraversal {
 
 
 }
+
+/****
+ * Binary Traversal
+ * Traversal of InOrder
+ * 4261735
+ * Traversal of PreOrder
+ * 1246375
+ * Traversal of PostOrder
+ * 4627531
+ * Process finished with exit code 0
+ *
+ */
